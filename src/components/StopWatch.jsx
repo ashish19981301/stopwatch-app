@@ -41,7 +41,7 @@ const StopWatch = () => {
             <section>
                 <div className="stopwatch-button">
                     <div className="stopwatch-button__start">
-                        <button onClick={onPause} className='btn1'>Pause</button>
+                        <button onClick={onPause} className='btn1'>Start</button>
                         <button onClick={onReset} className='btn2'>Reset</button>
                     </div>
                 </div>
