@@ -29,7 +29,8 @@ body {
 }
 
 .stopwatch-button__start .btn1 {
-    background-color: #daa520a9;
+/*     background-color: #daa520a9; */
+    background-color: aliceblue;
     border: none;
     width: 70px;
     height: 40px;
@@ -45,7 +46,8 @@ body {
 }
 
 .stopwatch-button__start .btn2 {
-    background-color: #daa520a9;
+/*     background-color: #daa520a9; */
+     background-color: aliceblue;
     border: none;
     width: 70px;
     height: 40px;
