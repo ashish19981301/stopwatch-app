@@ -16,9 +16,9 @@ body {
 
 
 .stopwatch-display__time {
-    font-size: 40px;
+    font-size: 30px;
     background-color: #d6f5dd;
-    padding: 20px;
+    padding: 10px;
 }
 
 .stopwatch-button {
