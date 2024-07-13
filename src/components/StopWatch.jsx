@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from 'react'
 import '../style.css'
 const StopWatch = () => {
     const [time, setTime] = useState(0)
-    const [isPause, setIsPause] = useState(false)
+    const [isPause, setIsPause] = useState(true)
     const timer = useRef(null)
     // const[isRunning, setIsRunning] = useState(false);
     // const[isPause, setIsPause] = useState(false);
